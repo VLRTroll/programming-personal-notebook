@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprogramming_personal_notebook=self.webpackChunkprogramming_personal_notebook||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/programming-personal-notebook/blog","blogTitle":"Blog","authorsListPath":"/programming-personal-notebook/blog/authors"}')}}]);
